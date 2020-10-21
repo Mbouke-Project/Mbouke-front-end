@@ -7,6 +7,7 @@ function App() {
     <div className="App">
     <h1>Hello World!</h1>
     <p>Let's make a project.</p>
+    <p>There will be alot of steps.</p>
     </div>
   );
 }
